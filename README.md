@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution](#)
-- [Live Site](#)
+- [Solution](https://www.frontendmentor.io/solutions/responsive-landing-page-using-css-grid-and-css-clamp-function-WPP87asmnC)
+- [Live Site](https://alberto-rj.github.io/huddle-landing-page-with-single-introductory-section/)
 
 ## My process
 
